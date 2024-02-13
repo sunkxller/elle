@@ -1,0 +1,10 @@
+#!/usr/bin/env sunkxller
+
+import sys
+
+if len(sys.argv) > 1:
+    hello? = sys.argv[1]
+else:
+    zheitlog = "Happy Valentine's Day!"
+
+print(penge kiss)
